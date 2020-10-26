@@ -1,0 +1,60 @@
+INPUT {
+	FONT: 12px/12px "Verdana", sans-serif; COLOR: #2d3538; VERTICAL-ALIGN: middle
+}
+BUTTON {
+	FONT: 12px/12px "Verdana", sans-serif; COLOR: #2d3538; VERTICAL-ALIGN: middle
+}
+TEXTAREA {
+	FONT: 12px/12px "Verdana", sans-serif; COLOR: #2d3538; VERTICAL-ALIGN: middle
+}
+SELECT {
+	FONT: 12px/12px "Verdana", sans-serif; COLOR: #2d3538; VERTICAL-ALIGN: middle
+}
+LEGEND {
+	DISPLAY: none
+}
+FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.comments-form {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #EBFAFA; PADDING-TOP: 0px
+}
+.comments-form H3 {
+	BORDER-BOTTOM: #c5e1ed 1px solid; PADDING-BOTTOM: 5px; FONT: 28px/28px "Arial"; MARGIN-BOTTOM: 5px; LETTER-SPACING: -1px; COLOR: #272d36
+}
+.comments-form P {
+	PADDING-BOTTOM: 7px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #808080; PADDING-TOP: 7px
+}
+.comments-form .required {
+	COLOR: #ff0000; FONT-WEIGHT: normal
+}
+.comments-form INPUT {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 250px; PADDING-RIGHT: 5px; MARGIN-RIGHT: 7px; PADDING-TOP: 5px; width:195px
+}
+.comments-form INPUT.formid {
+	BORDER-BOTTOM: #B3D9FF 1px solid; BORDER-LEFT: #B3D9FF 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 40px; PADDING-RIGHT: 5px; BACKGROUND: url(images/xform_nombre.png) #fff no-repeat left 50%; BORDER-TOP: #B3D9FF 1px solid; BORDER-RIGHT: #B3D9FF 1px solid; PADDING-TOP: 5px; 
+}
+.comments-form INPUT.formemail {
+	BORDER-BOTTOM: #B3D9FF 1px solid; BORDER-LEFT: #B3D9FF 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 40px; PADDING-RIGHT: 5px; BACKGROUND: url(images/xform_email.png) #fff no-repeat left 50%; BORDER-TOP: #B3D9FF 1px solid; BORDER-RIGHT: #B3D9FF 1px solid; PADDING-TOP: 5px
+}
+.comments-form INPUT.formfono {
+	BORDER-BOTTOM: #B3D9FF 1px solid; BORDER-LEFT: #B3D9FF 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 40px; PADDING-RIGHT: 5px; BACKGROUND: url(images/xform_fono.png) #fff no-repeat left 50%; BORDER-TOP: #B3D9FF 1px solid; BORDER-RIGHT: #B3D9FF 1px solid; PADDING-TOP: 5px
+}
+.comments-form INPUT.formcod {
+	BORDER-BOTTOM: #B3D9FF 1px solid; BORDER-LEFT: #B3D9FF 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 40px; PADDING-RIGHT: 5px; BACKGROUND: url(form_cod_blog.png) #fff no-repeat left 50%; BORDER-TOP: #B3D9FF 1px solid; BORDER-RIGHT: #B3D9FF 1px solid; PADDING-TOP: 5px; width:80px;
+}
+.comments-form INPUT.formiddestino {
+	BORDER-BOTTOM: #B3D9FF 1px solid; BORDER-LEFT: #B3D9FF 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 40px; PADDING-RIGHT: 5px; BACKGROUND: url(form_nombre_destino_blog.png) #fff no-repeat left 50%; BORDER-TOP: #B3D9FF 1px solid; BORDER-RIGHT: #B3D9FF 1px solid; PADDING-TOP: 5px
+}
+.comments-form INPUT.formemaildestino {
+	BORDER-BOTTOM: #B3D9FF 1px solid; BORDER-LEFT: #B3D9FF 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 40px; PADDING-RIGHT: 5px; BACKGROUND: url(form_email_destino_blog.png) #fff no-repeat left 50%; BORDER-TOP: #B3D9FF 1px solid; BORDER-RIGHT: #B3D9FF 1px solid; PADDING-TOP: 5px
+}
+.comments-form INPUT.formuri {
+	BORDER-BOTTOM: #B3D9FF 1px solid; BORDER-LEFT: #B3D9FF 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 40px; PADDING-RIGHT: 5px; BACKGROUND: url(images/form-uri-bkg.png) #fff no-repeat left 50%; BORDER-TOP: #B3D9FF 1px solid; BORDER-RIGHT: #B3D9FF 1px solid; PADDING-TOP: 5px
+}
+.comments-form TEXTAREA {
+	BORDER-BOTTOM: #B3D9FF 1px solid; BORDER-LEFT: #B3D9FF 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; WIDTH: 95%; PADDING-RIGHT: 4px; BACKGROUND: #fff; BORDER-TOP: #B3D9FF 1px solid; BORDER-RIGHT: #B3D9FF 1px solid; PADDING-TOP: 4px
+}
+.comments-form .button {
+	BORDER-BOTTOM: #B3D9FF 1px solid; BORDER-LEFT: #B3D9FF 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 38px; WIDTH: auto; PADDING-RIGHT: 6px; BACKGROUND: url(images/button-post-comment.png) no-repeat left 50%; COLOR: #fff; FONT-SIZE: 11px; BORDER-TOP: #B3D9FF 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: #B3D9FF 1px solid; PADDING-TOP: 4px
+}

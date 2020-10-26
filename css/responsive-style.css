@@ -1,0 +1,281 @@
+@media only screen and (max-width: 1200px) {
+	.top-redes {display: none;}
+	.menu-top .nav>li>a {padding: 10px 6px;}
+	/*.navbar-fixed-top {position: relative;}*/
+	#carousel-example-generic {margin-top: 8em;}
+	#carousel-example-generic .carousel-indicators {display: none;}
+	#carousel-example-generic .carousel-caption {top: 25%;}
+	#carousel-example-generic .carousel-caption h1 {font-size: 2em;}
+
+	.cuadrex {
+		width: 25%;
+    	margin: 0 auto 1em;
+	}
+
+	#servicios .img-servicios-index {display: none;}
+	#servicios .body-servicios-index {width: 100%;}
+	.espprod,
+	.espprod2 {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.lat {display: none;}
+
+	#nosotros .btn-back-service {
+	    display: inline-block;
+	    background: #333;
+	}
+	#nosotros .btn-info-serv {
+		font-size: 14px;
+		padding: 8px 24px;
+	}
+
+	.wrap-sr {
+		display: flex;
+		justify-content: center;
+	}
+
+	.lateral-products {display: none;}
+	.wrap-body-top {width: 100%;}
+	.wrap-body {
+	    justify-content: center;
+	}
+	.item-st {
+	    width: 42%;
+	}
+	#ea .img-ea {
+		width: 50%;
+		margin: 0 auto;
+	}
+	.mas-visto h3 {margin-top: 1em;}
+	.fr-form-susc-blog {padding: 11px 30px;}
+
+	#blog .comprimir {padding: 0 2.5em;}
+	#blog .btn-blog-bg {margin-bottom: 2em;}
+	.contact_address .span-email {margin-left: 4em;}
+	.prod-caja {display: none;}
+	.toptop1,
+	.toptop2,
+	.toptop3,
+	.toptop4 {margin-top: 0;}
+	.fr-plom {padding: 1em 0;}
+
+	.blog-fr-redes .row a {margin: .5em 8em;}
+
+	.contact_address .contact-email {margin-left: 4.1em;}
+	#nosotros .der-fr {padding-right: 1.5em;}
+	#nosotros .izq-fr {padding-left: 1.5em;}
+
+	.blog-fr-redes .row a {
+		width: 40%;
+		margin-bottom: .5em;
+	}
+
+	.fr-banner h2 {margin-left: 1em;}
+	#tabs-pictogramas .tab-content .img-picto img {margin: 0 auto 1em;}
+
+
+}
+
+
+@media only screen and (max-width: 768px) {
+	.cuadrex {
+	    margin-bottom: 20px;
+	}
+	.centro1 {
+	    width: auto;
+	    margin: auto;
+	    margin-bottom: 0;
+	}
+	.centro2 {
+	    width: auto;
+	    margin: auto;
+	}
+	.comprimir-first {padding: 0 .85em;}
+
+	/*.navbar-fixed-top {position: fixed;}*/
+	.navbar-brand>img {width: 65%;}
+	.navbar-default {
+	    border: none;
+	    border-radius: 0;
+	    margin-bottom: 0;
+	    width: 100%;
+	    padding: 20px;
+	    background: #fff;
+	    transition: all 0.4s ease-in-out;
+	    -webkit-transition: all 0.4s ease-in-out;
+	    -moz-transition: all 0.4s ease-in-out;
+	    -o-transition: all 0.4s ease-in-out;
+	    -ms-transition: all 0.4s ease-in-out;
+	}
+
+
+
+	#carousel-example-generic .carousel-indicators {display: none;}
+	#carousel-example-generic .carousel-caption h1 {
+		font-size: 1.35em;
+		font-weight: normal;
+	}
+	#carousel-example-generic .carousel-caption {top: 0;}
+	#carousel-example-generic .btn-blanco {display: none;}
+	#carousel-example-generic .btn-celeste {
+		font-size: .9em;
+		padding: .5em .8em;
+	}
+
+	.fr-img-con {background: transparent none;}
+
+	#espacc .title-valores-index {
+		text-align: center;
+		margin: 2px;
+		padding: 0.5em 0.5em;
+		background: #00c2dd;
+		font-size: 2em;
+		font-weight: bold;
+		color: #fff;
+		outline: 2px solid #fff;
+    	outline-offset: -4px;
+	}
+
+	#espacc p {
+		color: #333;
+		font-weight: bold;
+	}
+
+	#espacc .cuadrex {
+		border: 1px solid #333;
+    	width: 50%;
+    	margin: 1em auto;
+	}
+
+	#nosotros {margin: 2.5em 0;}
+	#servicios,
+	#productos,
+	#ea {padding: 2.5em 0;}
+	#nosotros .comprimir {padding: 0 1em;}
+
+	.fr-img-con {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
+	.panel-title a.collapsed:after,
+	.panel-title a:after {display: none;}
+
+	#nosotros .text-nosotros {padding: 0 1em}
+	#ea .text-ea {padding: 0 .5em}
+
+
+	#productos .border-box {margin-bottom: 0;}
+
+	.fr-img-banner-nosotros,
+	.banner-terminos-condiciones,
+	.fr-img-banner-servicios,
+	.fr-img-banner-productos,
+	.fr-img-banner-blog,
+	.fr-img-banner-contacto {
+	    background-image: none;
+		background-color: #e2e2e2;
+	}
+
+	#nosotros .formato-fr{padding: 0 .5em;}
+
+	.fr-banner h2 {
+		margin-top: 0;
+		margin-left: 0;
+		margin-bottom: 0;
+		display: flex;
+    	justify-content: center;
+		text-align: center;
+	}
+
+	.fr-banner {
+		height: 8em;
+    	margin-top: 8em;
+		display: flex;
+    	justify-content: center;
+    	align-items: center;
+	}
+
+
+
+
+
+	.caja h2 {margin-left: 0;}
+	.content-servicio {
+		display: flex;
+    	flex-wrap: wrap-reverse;
+	}
+
+
+	#ea .fs-ea2 {text-align: justify!important;}
+
+
+	#servicios .in-serv-2 {padding: 0 1em;}
+	#productos .in-produc-2 {padding: 0 1em;}
+
+	.contact_address ul li i {margin-right: 7px}
+	.contact {
+		margin: 0;
+		padding: 0 0 5em;
+	}
+
+	.contact_address {
+		padding-top: 2em;
+		padding-bottom: 0;
+	}
+
+
+	.blog-fr-redes .row a {
+		width: 65%;
+		margin-bottom: .5em;
+	}
+
+	.footer_social {
+		margin-top: 1em;
+		float: left!important;
+		padding-right: 1em;
+	}
+
+	.navbar-default .navbar-collapse {border-color: transparent;}
+
+	.camb h1 {margin-top: .5em;}
+
+
+	.fr-plom {padding: 0 .5em;}
+
+	.tarjeta-sans li {margin: 0;}
+
+	.blog .noti-texto {padding: 2em .5em 0;}
+	.blog .tarjeta,
+	.tarjeta {padding: 0;}
+	.siguiente-post {margin-top: 1em;}
+	.comentario-post {margin-bottom: 1.5em;}
+	/*
+	#tabs-pictogramas {
+		display: flex;
+		flex-wrap: wrap-reverse;
+	}
+
+	#tabs-pictogramas .nav>li {
+	    width: 15%;
+	    margin-top: 2em;
+	}
+	*/
+	#tabs-pictogramas .nav>li>a>img {margin-bottom: 1em;}
+
+	.contact_address ul li {font-size: 14px;}
+
+	.detalles-blogsito .post-info {padding-left: 5.5em;}
+	.detalles-blogsito .post-info li {margin-right: 0;}
+
+	.contact_address .contact-email {margin-left: 3.8em;}
+	.item-st {
+	    width: 100%;
+	}
+
+	#tabs-pictogramas .slick-prev::before,
+	#tabs-pictogramas .slick-next::before {display: none;}
+
+}
